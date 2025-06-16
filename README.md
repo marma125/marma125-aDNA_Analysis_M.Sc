@@ -1,4 +1,4 @@
-# marma125-aDNA_Analysis_M.Sc - Max Marklein 2025 M.Sc. Marine Geoscience
+# marma125-aDNA_Analysis_M.Sc - Max Marklein 2025 M.Sc. Marine Geoscience, University of Bremen
 Version control of the analysis and scripts written in R v.4.4.3 for the analysis of sedaDNA data for my master thesis project titled:
 "Prokaryotic community shifts in the Atlantic during the LGM - Holocene transition and their implications for the marine carbon pump; insights from aDNA"
 
